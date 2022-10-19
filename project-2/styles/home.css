@@ -1,0 +1,50 @@
+button {
+    background-color: blue;
+}
+
+button:hover {
+    background-color: red;
+} 
+
+.header-img {
+    width: 50px;
+    height: 75px;
+    border-radius: 20%; 
+      
+}
+
+nav {
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    width: 500px;
+    justify-content: space-around;
+}
+
+.header-img-div {
+    /* border: 1px solid black; */
+    width: 250px;
+    display: flex;
+    align-items: center;
+     
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: skyblue;
+}
+
+.creative-p {
+    /* display: inline; */
+    font-size: 30px;
+
+}
+
+.p-span{
+    color: yellow;
+}
+
+a {
+    text-decoration: none;
+}
