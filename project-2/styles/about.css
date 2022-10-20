@@ -1,5 +1,6 @@
-button {
+body {
     background-color: blue;
+    background-image: ;
 }
 
 button:hover {
@@ -50,4 +51,14 @@ header{
 
 a {
     text-decoration: none;
+}
+
+main {
+    border: 1px solid black;
+    margin: -2px -3px 0px -8px;
+}
+.swag-dog-img {
+    width:  100%;
+    height: 100%;
+
 }
