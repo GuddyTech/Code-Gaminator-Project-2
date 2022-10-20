@@ -89,6 +89,7 @@ a {
     border: 1px solid black;
     background-color: purple;
     display: flex;
+    justify-content: center;
     
 }
 
@@ -99,10 +100,16 @@ a {
 
 .img-2 {
     height:500px;
-    width: 800px;
+    width: 600px;
 }
 
 .box-content-div {
     border: 1px solid black;
     background-color: skyblue;
 }
+
+
+
+
+
+
