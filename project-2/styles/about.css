@@ -1,6 +1,6 @@
 body {
-    background-color: blue;
-    background-image: ;
+    /* background-color: blue; */
+    /* background-image: url(./../images/swag-dog.jpg); */
 }
 
 button:hover {
@@ -53,7 +53,7 @@ a {
     text-decoration: none;
 }
 
-main {
+man {
     border: 1px solid black;
     margin: -2px -3px 0px -8px;
 }
