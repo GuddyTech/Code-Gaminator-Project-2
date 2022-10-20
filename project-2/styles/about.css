@@ -53,10 +53,10 @@ a {
     text-decoration: none;
 }
 
-man {
+/* man {
     border: 1px solid black;
     margin: -2px -3px 0px -8px;
-}
+} */
 /* .swag-dog-img {
     width:  100%;
     height: 100%;
@@ -66,11 +66,13 @@ man {
 .about {
     border: 1px solid black;
     background-color: red;
+    margin: 0px -6px 1px -7px;
 }
 
 .side-links {
     border: 1px solid black;
     background-color: lightblue;
+    /* margin: 10px 10px 10px 10px; */
 }
 
 .text-div {
@@ -86,6 +88,18 @@ man {
 .img-1-div {
     border: 1px solid black;
     background-color: purple;
+    display: flex;
+    
+}
+
+.img-1 {
+    height: 500px;
+    width: 800px;
+}
+
+.img-2 {
+    height:500px;
+    width: 800px;
 }
 
 .box-content-div {
