@@ -2,10 +2,10 @@
     font-family: myCustomFont;
     src:url(./../font/Loveline\ Glamour.otf);
 }
-body {
-    /* background-color: blue; */
-    /* background-image: url(./../images/swag-dog.jpg); */
-}
+/* body {
+     background-color: blue; 
+     background-image: url(./../images/swag-dog.jpg); 
+} */
 
 button:hover {
     background-color: red;
